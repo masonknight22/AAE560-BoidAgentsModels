@@ -1,3 +1,3 @@
 # AAE560-BoidAgentsModels
-Boid agents running simulation.
+This scratch agent based model displays behavior of 'boids' or artificial life exhibiting behavior (in a group). 
 ![](boids.png)
